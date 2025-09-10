@@ -42,7 +42,7 @@ This project demonstrates how to perform **CRUD operations** (Create, Read, Upda
 ---
 
 ## 📂 Project Structure
-See project source files inside the `src` folder.
+![Project Structure](https://drive.google.com/uc?id=1qw1qhtG9wlG3l17VAdcOrAWLtDrT6NSX)
 
 ---
 
